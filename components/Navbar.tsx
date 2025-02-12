@@ -1,7 +1,6 @@
 'use client'
 
 import { MenuIcon } from 'lucide-react'
-import Button from './Button'
 import Link from 'next/link'
 import {
   SignInButton,
